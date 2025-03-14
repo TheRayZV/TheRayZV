@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://via.placeholder.com/100" alt="Logo" width="100"/>
+  <img src="https://avatars.githubusercontent.com/u/112191289?s=400&u=6bcd8d9c9108469cbd4cd7aca3dcf3899bfddc2e&v=4" alt="Logo" width="100"/>
   
   # TheRayZV
   

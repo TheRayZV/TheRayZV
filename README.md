@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://via.placeholder.com/100" alt="Logo" width="100"/>
   
-  # 👋 Hi! Welcome to my GitHub!
+  # TheRayZV
   
-  **Honest stories about an IT career**
+  **Developer**
 </div>
 
 ---

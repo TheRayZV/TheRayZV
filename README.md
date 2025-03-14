@@ -1,38 +1,34 @@
 <div align="center">
   <img src="https://via.placeholder.com/100" alt="Logo" width="100"/>
   
-  # 👋 Привет! Добро пожаловать в мой GitHub!
+  # 👋 Hi! Welcome to my GitHub!
   
-  **Честные истории о карьере в IT**
+  **Honest stories about an IT career**
 </div>
 
 ---
 
-## 🚀 О себе
+## 🚀 About Me
 
-- 🔭 Работаю над **интересными проектами**
-- 🌱 Изучаю **новые технологии и инструменты**
-- 💡 Люблю **решать сложные задачи** и **оптимизировать процессы**
-- 💬 Всегда рад обсудить **IT, кодинг и open-source**
+- 🔭 Working on **exciting projects**
+- 🌱 Learning **new technologies and tools**
+- 💡 Love **solving complex problems** and **optimizing processes**
+- 💬 Always happy to discuss **IT, coding, and open-source**
 
-## 📌 Мои проекты
+## 📌 My Projects
 
-🔹 **[Название проекта](ссылка-на-репозиторий)** — краткое описание проекта.
-
-🔹 **[Название проекта](ссылка-на-репозиторий)** — краткое описание проекта.
-
-🔹 **[Название проекта](ссылка-на-репозиторий)** — краткое описание проекта.
+🔹 **[reon.space](https://reon.space)** — an innovative project.
 
 ---
 
-## 💼 Стек технологий
+## 💼 Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,linux,docker" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs" alt="Tech Stack" />
 </div>
 
 ---
 
-## 📊 Статистика
+## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br/>
@@ -41,7 +37,7 @@
 
 ---
 
-## 📫 Как связаться?
+## 📫 Contact Me
 <div align="center">
   <a href="https://therayzv.ru" target="_blank">
     <img src="https://img.shields.io/badge/Website-therayzv.ru-blue?style=for-the-badge" alt="Website" />
@@ -53,6 +49,6 @@
 
 ---
 
-> "Люблю писать код, который работает так, как задумано!" 😃
+> "I love writing code that works as intended!" 😃
 
-⭐ **Не забудьте поставить звезду** на проекты, если они вам понравились!
+⭐ **Don't forget to star the projects if you like them!**

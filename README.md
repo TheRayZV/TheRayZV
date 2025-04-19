@@ -2,7 +2,7 @@
   
   # TheRayZV
   
-  **Youg forever**
+  **Young forever**
 </div>
 
 ---
